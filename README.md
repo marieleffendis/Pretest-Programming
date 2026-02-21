@@ -1,4 +1,4 @@
-URO PRETEST INSTITUT TEKNOLOGI BANDUNG
+#URO PRETEST INSTITUT TEKNOLOGI BANDUNG
 PROGRAMMING SEKURO 18
 Selamat Datang CaKRU-18 !!
 URO Test Divisi Programming merupakan bagian dari proses seleksi URO pada divisi programming dimana CaKru-18 diwajibkan untuk memenuhi beberapa ketentuan berikut:
